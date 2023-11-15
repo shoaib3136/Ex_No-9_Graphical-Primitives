@@ -26,6 +26,13 @@ Step 7: Save and run the application.
 
 
 ## Program:
+ ```
+/*
+Program to create and design an android application for draw basic graphical primitives.
+Developed by: Shaik Shoaib Nawaz
+RegisterNumber: 212222240094 
+*/
+```
 ## MainActivity.java:
 ```
 package com.example.exp9;
